@@ -43,3 +43,4 @@ I'm a backend-focused software developer who enjoys building reliable systems, c
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Asimro-B
+- https://www.linkedin.com/in/asimro-bitaye/
