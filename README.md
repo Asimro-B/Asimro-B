@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Asimro Bitaye
 
-<!--
-**Asimro-B/Asimro-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused software developer who enjoys building reliable systems, clean APIs, and working with databases. I like turning complex business requirements into maintainable backend logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔧 Backend Developer
+- 🧠 Interested in clean architecture and system design
+- 🗄️ Comfortable working with databases and migrations
+- 🌱 Continuously learning and improving my backend skills
+- 🐧 Linux user
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Go, SQL  
+- **Backend:** Gin, GORM  
+- **Databases:** PostgreSQL, Firestore 
+- **Tools:** Git, Docker, Linux  
+- **Concepts:** REST APIs, Validation, Transactions, Migrations
+
+---
+
+## 🚀 What I'm Working On
+- Building and improving backend services in Go  
+- Designing clean database schemas  
+- Writing maintainable and testable backend code  
+
+---
+
+## 🤝 Open To
+- Backend collaboration
+- Learning from other developers
+- Code reviews and technical discussions
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asimro-B&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Asimro-B
